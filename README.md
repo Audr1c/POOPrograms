@@ -1,4 +1,4 @@
-# POOPrograms
+# POOProject
 
 Afer a git clone do 
 ```sh
